@@ -1,18 +1,20 @@
-# MrNobody Redis Recon Pro
+# Redis Recon Pro — Redis Security Audit & Penetration Testing Tool
 
 <p align="center">
-  <img src="screenshot.png" alt="MrNobody Redis Recon Pro - CLI Output" width="600">
+  <img src="screenshot.png" alt="Redis Recon Pro CLI - Redis security scanner showing 14-phase reconnaissance output with vulnerability detection and intelligence extraction" width="600">
 </p>
 
 <p align="center">
-  <strong>Advanced Redis Security Audit & Reconnaissance Tool</strong>
+  <strong>Advanced Redis Security Auditor — 14-Phase Deep Reconnaissance, CVE Detection, Vulnerability Scanning & Intelligence Extraction</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/python-3.6+-yellow" />
-  <img src="https://img.shields.io/badge/dependencies-zero-lightgrey" />
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Redis Recon Pro Version" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
+  <img src="https://img.shields.io/badge/python-3.6+-yellow" alt="Python 3.6+ Required" />
+  <img src="https://img.shields.io/badge/dependencies-zero-lightgrey" alt="Zero Dependencies" />
+  <img src="https://img.shields.io/badge/redis-security-red" alt="Redis Security Tool" />
+  <img src="https://img.shields.io/badge/pentesting-tool-orange" alt="Penetration Testing" />
 </p>
 
 ---
